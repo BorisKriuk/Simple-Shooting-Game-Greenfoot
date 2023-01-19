@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=
+comment1.target=Space()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Space.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ This\ is\ the\ act\ method\ to\ create\ the\ rocks\n
+numComments=3
